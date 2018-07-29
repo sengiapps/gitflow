@@ -32,7 +32,7 @@ Now the Developer can clone the repo.
 
 ### 6. Create a feature
 
-The Developer creates a feature and start writting code.
+The Developer creates a feature and start writing code.
 
 ![link](./img/paso-7.png)
 ![link](./img/paso-7.1.png)
