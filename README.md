@@ -18,11 +18,11 @@ The Master role create an empty README.md file and commit to the repo.
 
 ### 3. New branches
 
-The Master role create a branch named `staging` (for testing), and another `production`.
+The Master role create a branch named `preproduction` and another `production`.
 
 ### 4. Protect branches
 
-Protect all branches (`master`, `staging` and `production`) from direct merge and push, you should set it up like so:
+Protect all branches (`master`, `preproduction` and `production`) from direct merge and push, you should set it up like so:
 
 ![link](./img/paso4.png)
 
